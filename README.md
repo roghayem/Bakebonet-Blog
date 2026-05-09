@@ -55,6 +55,6 @@ Font Awesome for icons
 
 
 
-git clone https://github.com/roghaye84/Bakebonet-Blog.git
+git clone https://github.com/roghayem/Bakebonet-Blog.git
 
 2. Open index.html in any modern browser to view the blog locally.
